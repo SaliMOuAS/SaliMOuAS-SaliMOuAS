@@ -64,12 +64,7 @@ Building the data foundation for analyzing machine failures from sensor data.
 - **Result:** `[key finding, e.g. failure rate vs. tool wear]`
 - **Link:** [View repository](https://github.com/SaliMOuAS/Predective-Maintenance-for-Industrial-Facility)
 
-### 3. `[Project title]`
-`[One sentence: business question and what the analysis answers]`
-- **Stack:** `[tools]`
-- **What I did:** `[your contribution]`
-- **Result:** `[measurable outcome or insight]`
-- **Link:** `[repository or dashboard URL]`
+
 
 ## Selected results from my work
 
@@ -86,4 +81,4 @@ Building the data foundation for analyzing machine failures from sensor data.
 ## Get in touch
 
 - LinkedIn: [linkedin.com/in/salim-ouassou](https://www.linkedin.com/in/salim-ouassou)
-- Email: `your.email@example.com`
+- Email: `salim.ouassou@gmail.com`
