@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salim-ouassou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:salim.ouassou@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -30,6 +30,8 @@ Recently I completed a **Data Science & Machine Learning** program (2024–2025)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 **Databases**
 
@@ -52,19 +54,23 @@ Recently I completed a **Data Science & Machine Learning** program (2024–2025)
 
 ### 1. Telecom Customer Churn Prediction
 Predicting customer churn for a telecom provider and identifying the main drivers of cancellation.
-- **Stack:** Python, pandas, scikit-learn
-- **What I did:** end-to-end pipeline from data cleaning to model evaluation
-- **Result:** `[model, metric, e.g. Recall X %]` · `[top 2–3 churn drivers]`
+- **Stack:** Python, pandas, scikit-learn, Matplotlib, Seaborn
+- **What I did:** end-to-end pipeline from data cleaning to model evaluation, plus customer risk segments with retention recommendations
+- **Result:** Random Forest with **ROC-AUC 0.84**, identifying about **78 % of churners**; main drivers are month-to-month contracts, short tenure and fiber optic internet without online security or tech support
 - **Link:** [View repository](https://github.com/SaliMOuAS/Telecom-Customor-Churn-Analyse)
 
 ### 2. Predictive Maintenance for an Industrial Facility
 Building the data foundation for analyzing machine failures from sensor data.
 - **Stack:** Python, SQL, SQLite
 - **What I did:** ETL pipeline for sensor data (temperature, rotational speed, torque, tool wear) with schema design and data cleaning
-- **Result:** `[key finding, e.g. failure rate vs. tool wear]`
+- **Result:** SQLite database plus exploratory analysis of failure types, sensor correlations and tool wear by failure type
 - **Link:** [View repository](https://github.com/SaliMOuAS/Predective-Maintenance-for-Industrial-Facility)
 
-
+### 3. Football Players Market Value Analysis
+Interactive Streamlit dashboard on transfer spending, market values and player performance, with forecasts for clubs and players.
+- **Stack:** Python, Streamlit, pandas, Plotly, scikit-learn
+- **What I did:** multipage app with league, club and player views, player search, an efficiency score (goal involvements per € million market value) and regression-based forecasts of goals and market value
+- **Link:** [View repository](https://github.com/SaliMOuAS/football-players-market-value-analysis)
 
 ## Selected results from my work
 
