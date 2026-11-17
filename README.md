@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salim-ouassou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/salim-ouassou-05b62a372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:salim.ouassou@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -86,5 +86,5 @@ Interactive Streamlit dashboard on transfer spending, market values and player p
 
 ## Get in touch
 
-- LinkedIn: [linkedin.com/in/salim-ouassou](https://www.linkedin.com/in/salim-ouassou)
+- LinkedIn: [linkedin.com/in/salim-ouassou-05b62a372](https://www.linkedin.com/in/salim-ouassou-05b62a372/)
 - Email: `salim.ouassou@gmail.com`
